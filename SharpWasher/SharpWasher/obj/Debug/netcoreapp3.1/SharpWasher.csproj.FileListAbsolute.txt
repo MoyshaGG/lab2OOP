@@ -1,0 +1,38 @@
+C:\Users\User\source\repos\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.AssemblyInfo.cs
+C:\Users\User\source\repos\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.exe
+C:\Users\User\source\repos\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.deps.json
+C:\Users\User\source\repos\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.runtimeconfig.json
+C:\Users\User\source\repos\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.runtimeconfig.dev.json
+C:\Users\User\source\repos\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.dll
+C:\Users\User\source\repos\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.pdb
+C:\Users\User\source\repos\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.dll
+C:\Users\User\source\repos\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.pdb
+C:\Users\User\source\repos\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.genruntimeconfig.cache
+C:\Users\Maxim\Downloads\OOP_2Sem-main\Lab2\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.exe
+C:\Users\Maxim\Downloads\OOP_2Sem-main\Lab2\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.deps.json
+C:\Users\Maxim\Downloads\OOP_2Sem-main\Lab2\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.runtimeconfig.json
+C:\Users\Maxim\Downloads\OOP_2Sem-main\Lab2\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.runtimeconfig.dev.json
+C:\Users\Maxim\Downloads\OOP_2Sem-main\Lab2\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.dll
+C:\Users\Maxim\Downloads\OOP_2Sem-main\Lab2\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.pdb
+C:\Users\Maxim\Downloads\OOP_2Sem-main\Lab2\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.csprojAssemblyReference.cache
+C:\Users\Maxim\Downloads\OOP_2Sem-main\Lab2\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.AssemblyInfoInputs.cache
+C:\Users\Maxim\Downloads\OOP_2Sem-main\Lab2\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.AssemblyInfo.cs
+C:\Users\Maxim\Downloads\OOP_2Sem-main\Lab2\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Downloads\OOP_2Sem-main\Lab2\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.dll
+C:\Users\Maxim\Downloads\OOP_2Sem-main\Lab2\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.pdb
+C:\Users\Maxim\Downloads\OOP_2Sem-main\Lab2\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.genruntimeconfig.cache
+C:\Users\cobra\OneDrive\Робочий стіл\OOP-term2-lab2-main\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.exe
+C:\Users\cobra\OneDrive\Робочий стіл\OOP-term2-lab2-main\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.deps.json
+C:\Users\cobra\OneDrive\Робочий стіл\OOP-term2-lab2-main\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.runtimeconfig.json
+C:\Users\cobra\OneDrive\Робочий стіл\OOP-term2-lab2-main\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.runtimeconfig.dev.json
+C:\Users\cobra\OneDrive\Робочий стіл\OOP-term2-lab2-main\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.dll
+C:\Users\cobra\OneDrive\Робочий стіл\OOP-term2-lab2-main\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.pdb
+C:\Users\cobra\OneDrive\Робочий стіл\OOP-term2-lab2-main\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.csprojAssemblyReference.cache
+C:\Users\cobra\OneDrive\Робочий стіл\OOP-term2-lab2-main\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.AssemblyInfoInputs.cache
+C:\Users\cobra\OneDrive\Робочий стіл\OOP-term2-lab2-main\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.AssemblyInfo.cs
+C:\Users\cobra\OneDrive\Робочий стіл\OOP-term2-lab2-main\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.csproj.CoreCompileInputs.cache
+C:\Users\cobra\OneDrive\Робочий стіл\OOP-term2-lab2-main\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.dll
+C:\Users\cobra\OneDrive\Робочий стіл\OOP-term2-lab2-main\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.pdb
+C:\Users\cobra\OneDrive\Робочий стіл\OOP-term2-lab2-main\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.genruntimeconfig.cache
